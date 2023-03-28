@@ -1,0 +1,78 @@
+.top-container{
+    /* background-color: #ff4c68;  */
+    background-color:#F8F4EA ;
+    /* position: relative; */
+    top: 0;
+}
+.img{
+    width: 100%;
+    height:100%;
+    object-fit: cover;
+    position: relative;
+    opacity: 0.7;
+}
+.banner-text{
+    position: absolute;
+    top: 3%;
+    left: 37%;
+}
+p{
+    font-family: 'Merriweather', serif;
+    color: #008179;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    color: #66bfbf;
+}
+h2{
+    font-family: 'Merriweather', serif;
+    color: #008179;
+}
+.title{
+    font-size: 5.625rem;
+    color: #000;
+}
+.description{
+    font-size: 2.5rem;
+    color: #000;
+}
+.complains{
+    width: 50%;
+    background-color:#F8F4EA ;
+    margin: 100px auto 100px auto ;
+    text-align: left;
+    line-height: 2;
+}
+.civil{
+    float: left;
+    width: 25%;
+    margin-right: 10px;
+    border-radius: 100%;
+    border: solid;
+    background-color: white;
+}
+.electrical{
+    float: right;
+    width: 25%;
+    margin-left: 10px;
+    border-radius: 100%;
+    border: solid;
+    background-color: white;
+}
+.AC{
+    float: left;
+    width: 25%;
+    margin-right: 10px;
+    border-radius: 100%;
+    border: solid;
+    background-color: white;
+}
+.water-filter{
+    float: right;
+    width: 25%;
+    margin-left: 10px;
+    border-radius: 100%;
+    border: solid;
+    background-color: white;
+}
+
