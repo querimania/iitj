@@ -11,6 +11,13 @@
     position: relative;
     opacity: 0.7;
 }
+.img_au{
+    width: 100%;
+    height:50%;
+    object-fit: cover;
+    position: relative;
+    opacity: 0.7;
+}
 .banner-text{
     position: absolute;
     top: 3%;
@@ -80,10 +87,25 @@ h2{
      /* position: absolute;  */
     color: white;
     bottom: 0;
-    margin-bottom: 0%;
+    margin-bottom: 0px;
     width: 100%;
     background-color: #a8a8a8;
     line-height: 3;
     text-align: center;
     left: 0;
+}
+.copyright_footer_au{
+    /* position: absolute;  */
+   color: white;
+   bottom: 0;
+   margin-top: 120px;
+   width: 100%;
+   background-color: #a8a8a8;
+   line-height: 3;
+   text-align: center;
+   left: 0;
+}
+.write_up{
+    line-height: 32px;
+    text-align: center;
 }
