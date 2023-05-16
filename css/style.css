@@ -40,7 +40,7 @@ h2{
 }
 .title{
     font-size: 5.625rem;
-    color: white;
+    color: black;
     margin-top: 45px;
 }
 .description{
@@ -224,7 +224,7 @@ h2{
   }
   
   .title {
-    color: grey;
+    color: black;
   }
   
   .button {
@@ -504,10 +504,9 @@ body{
   color: #8c7ae6;
   font-size: 20px;
 }
-.w3-show-inline-block{
-    
-  }
+
 
 
   
+
 
