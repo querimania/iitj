@@ -36,7 +36,7 @@
   position: absolute;
   top: 30px;
   height: 150px;
-  left: 1200px;
+  margin-left: 300px
 }
 p{
     font-family: 'Merriweather', serif;
