@@ -1,7 +1,7 @@
 .top-container{
     /* background-color: #ff4c68;  */
     background-color:#F8F4EA ;
-    /* position: relative; */
+    position: relative; 
     top: 0;
 }
 .navbar-brand{
@@ -9,22 +9,34 @@
 }
 .img{
     width: 100%;
-    height:100%;
+    height:50%;
     object-fit: cover;
     position: relative;
     opacity: 0.7;
 }
 .img_au{
     width: 100%;
-    height:50%;
+    height: 500px;
     object-fit: cover;
-    position: relative;
+     position: relative; 
     opacity: 0.7;
 }
 .banner-text{
     position: absolute;
     top: 3%;
     left: 37%;
+}
+.img_au {
+  position: relative;
+  top: 0;
+  left: 0;
+  border: 1px solid #000000;
+}
+.img_2 {
+  position: absolute;
+  top: 30px;
+  height: 150px;
+  left: 1200px;
 }
 p{
     font-family: 'Merriweather', serif;
@@ -504,9 +516,4 @@ body{
   color: #8c7ae6;
   font-size: 20px;
 }
-
-
-
-  
-
 
