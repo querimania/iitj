@@ -27,7 +27,7 @@
     left: 37%;
 }
 .img_au {
-  position: relative;
+  position: absolute;
   top: 0;
   left: 0;
   border: 1px solid #000000;
@@ -36,7 +36,7 @@
   position: absolute;
   top: 30px;
   height: 150px;
-  margin-left: 300px;
+  right: 30px;
 }
 p{
     font-family: 'Merriweather', serif;
@@ -62,7 +62,7 @@ h2{
 .complains{
     width: 50%;
     background-color:white ;
-    margin: 100px auto 100px auto ;
+    margin: 500px auto 100px auto ;
     text-align: left;
     line-height: 2;
 }
@@ -516,4 +516,3 @@ body{
   color: #8c7ae6;
   font-size: 20px;
 }
-
